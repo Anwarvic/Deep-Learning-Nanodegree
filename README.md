@@ -1,6 +1,8 @@
 # Deep-Learning-Nanodegree-Udacity-2019
 This repo contains my journey taking the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) with Udacity!! In the nanodegree, we will become experts in neural networks, and we are going to learn how to implement them using the famous deep learning framework like PyTorch, TensorFlow, and Keras. We will also learn how to build convolutional networks for image recognition, recurrent networks for sequence generation, generative adversarial networks for image generation, and learn how to deploy models accessible from a website.
 
+You can get the code used in this nanodegree from the official Udacity repo on Github. You can clone this [link](https://github.com/udacity/deep-learning) and you have all the code !!
+
 
 
 ## Program Structure
@@ -88,7 +90,7 @@ In these lessons, things will be a little bit different. The lessons will be sho
 We've designed this program such that you only require the following prerequisite knowledge:
 
 -  [Intermediate Python experience](https://www.udacity.com/course/programming-foundations-with-python--ud036).
-- [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra).
+-  [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+-  [Linear Algebra](https://www.khanacademy.org/math/linear-algebra).
 
 That being said, we've included a lot of the detailed mathematics for those of you who do want to go in depth and understand the theory behind these concepts. Such content is optional and shouldn't prevent you from doing the projects. However, it is encouraged for a theoretical understanding.
