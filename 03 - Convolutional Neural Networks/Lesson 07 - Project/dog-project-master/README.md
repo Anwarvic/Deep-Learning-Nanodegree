@@ -140,3 +140,13 @@ When you are ready to submit your project, collect the following files and compr
 - Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
 
 Alternatively, your submission could consist of the GitHub link to your repository.
+
+## Note
+
+You can download my saved models (as I have tried many) from here:
+
+- Custom CNN from [here](https://www.mediafire.com/file/lnsbb9g978ipl71/weights.best.from_scratch.hdf5/file).
+- VGG16 from [here](https://www.mediafire.com/file/pxuenw59ypwmk42/weights.best.VGG16.hdf5/file)
+- Resnet from [here](https://www.mediafire.com/file/8oma52b1pl68ah8/weights.best.resnet50.hdf5/file)
+- Inception_v3 from [here](https://www.mediafire.com/file/wxlgsi73o87elk3/weights.best.inceptionv3.hdf5/file)
+- Xception from [here](https://www.mediafire.com/file/5bcq6i08t85pe9q/weights.best.Xception.hdf5/file)
